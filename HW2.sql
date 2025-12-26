@@ -1,5 +1,5 @@
--- ECON485 – Homework 2 (Burak version)
--- Simple registration system using StudentRecords / CatalogCourses / OfferedSections / RegistrationsBasic
+
+
 
 CREATE DATABASE IF NOT EXISTS econ485_burak;
 USE econ485_burak;
